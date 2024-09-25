@@ -1,5 +1,5 @@
 # ysun0714_9103_tut02
-> **IDEA9103_Quiz 8** 
+> **Creative Coding: IDEA9103_Quiz 8** 
 # **Part 1: Imaging Technique Inspiration**
 
 
